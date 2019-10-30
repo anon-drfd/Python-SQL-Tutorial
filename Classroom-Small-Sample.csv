@@ -1,0 +1,11 @@
+Gender,Ethnicity,Parental Level of Education,Test Preparation Course,Math Score,Science Score,English Score
+female,Malay,undergraduate degree,none,44,59,54
+female,Chinese,high school,none,46,62,59
+female,Indian,diploma,none,52,74,65
+male,Chinese,diploma,none,70,74,76
+female,Chinese,diploma,none,72,73,77
+female,Chinese,undergraduate degree,none,75,74,75
+male,Malay,diploma,none,43,53,49
+male,Chinese,diploma,none,52,56,46
+female,Chinese,high school,completed,57,60,68
+male,Malay,high school,completed,78,70,75
