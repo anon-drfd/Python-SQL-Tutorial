@@ -1,0 +1,1001 @@
+Gender,Ethnicity,Age,Parental Level of Education,Test Preparation Course,Math Score,Science Score,English Score
+male,Chinese,16,high school,none,47,77,79
+male,Malay,13,high school,none,41,55,70
+female,Chinese,14,diploma,none,69,50,64
+female,Chinese,15,high school,completed,48,56,73
+female,Chinese,13,undergraduate degree,none,43,46,61
+female,Chinese,16,undergraduate degree,completed,75,86,93
+male,Malay,16,high school,none,82,55,67
+male,Malay,16,diploma,completed,75,90,83
+male,Malay,13,postgraduate degree,completed,82,72,86
+male,Malay,15,diploma,none,60,71,79
+female,Indian,17,diploma,none,28,47,76
+male,Malay,13,undergraduate degree,none,76,69,54
+female,Indian,14,undergraduate degree,none,41,43,64
+female,Chinese,15,diploma,completed,46,62,78
+male,Malay,15,undergraduate degree,none,23,35,52
+male,Malay,13,high school,none,64,43,48
+female,Malay,13,undergraduate degree,completed,84,57,53
+male,Malay,16,diploma,none,40,64,45
+female,Malay,15,postgraduate degree,none,81,54,54
+female,Malay,14,postgraduate degree,none,46,29,78
+female,Malay,13,high school,completed,78,64,60
+female,Chinese,17,high school,none,39,40,58
+female,Malay,16,diploma,completed,96,56,74
+female,Malay,13,postgraduate degree,none,57,42,78
+female,Malay,17,high school,none,65,78,84
+female,Indian,13,postgraduate degree,completed,51,58,62
+female,Malay,15,high school,none,23,65,62
+female,Malay,17,diploma,none,25,71,88
+female,Indian,17,high school,none,55,70,67
+male,Malay,16,diploma,completed,90,95,86
+female,Malay,15,high school,none,28,34,53
+female,Malay,14,postgraduate degree,none,52,40,52
+male,Chinese,17,high school,none,75,66,51
+male,Malay,13,postgraduate degree,none,60,29,75
+female,Malay,17,undergraduate degree,none,75,82,88
+female,Malay,17,undergraduate degree,completed,62,82,88
+male,Malay,17,diploma,none,43,57,50
+male,Malay,14,high school,none,61,52,45
+female,Malay,17,undergraduate degree,completed,53,83,92
+male,Chinese,13,high school,none,59,84,79
+male,Malay,13,undergraduate degree,none,81,81,87
+male,Malay,15,undergraduate degree,none,41,50,79
+male,Chinese,16,undergraduate degree,none,66,58,69
+male,Chinese,16,high school,completed,79,60,46
+female,Indian,16,high school,none,68,84,90
+female,Chinese,17,undergraduate degree,completed,58,54,58
+male,Chinese,17,diploma,none,68,37,50
+female,Chinese,14,undergraduate degree,none,81,46,67
+male,Malay,17,diploma,completed,50,53,75
+male,Indian,17,high school,none,69,33,78
+female,Malay,16,diploma,none,32,52,47
+female,Malay,15,high school,completed,53,94,81
+male,Malay,14,diploma,none,61,59,53
+female,Malay,14,high school,none,37,26,79
+male,Malay,16,high school,completed,56,71,75
+female,Chinese,16,high school,none,38,25,65
+female,Malay,15,diploma,none,75,31,64
+male,Chinese,13,high school,none,39,35,56
+female,Malay,14,undergraduate degree,none,71,50,67
+male,Malay,17,high school,none,74,39,79
+female,Malay,15,undergraduate degree,completed,80,71,75
+female,Malay,15,high school,none,73,39,56
+male,Chinese,14,undergraduate degree,none,55,50,69
+male,Chinese,15,high school,completed,60,64,62
+female,Malay,17,undergraduate degree,none,32,48,62
+female,Malay,16,diploma,completed,75,90,84
+female,Others,13,high school,none,36,68,59
+female,Malay,14,undergraduate degree,completed,71,78,81
+female,Malay,15,diploma,completed,52,88,86
+female,Malay,14,postgraduate degree,none,80,80,76
+male,Malay,13,high school,none,37,50,67
+male,Others,14,postgraduate degree,none,65,82,90
+male,Chinese,13,high school,none,62,44,51
+male,Malay,14,high school,completed,80,75,82
+male,Malay,14,diploma,none,81,38,57
+female,Chinese,17,undergraduate degree,completed,91,55,48
+male,Malay,15,high school,none,53,32,56
+male,Indian,13,high school,completed,87,58,53
+female,Chinese,17,undergraduate degree,completed,97,81,97
+male,Malay,16,undergraduate degree,none,62,54,69
+male,Malay,15,high school,none,42,65,64
+male,Others,13,high school,none,47,65,66
+male,Chinese,17,high school,none,32,50,46
+male,Malay,15,postgraduate degree,none,55,48,79
+female,Malay,17,high school,none,56,24,77
+female,Indian,16,diploma,completed,56,82,92
+female,Chinese,15,high school,none,73,35,69
+male,Chinese,15,high school,none,77,63,79
+male,Others,15,undergraduate degree,completed,90,78,81
+female,Malay,14,postgraduate degree,none,60,69,48
+female,Chinese,16,high school,completed,55,84,97
+male,Malay,14,high school,none,57,78,77
+female,Indian,17,undergraduate degree,none,64,84,78
+male,Malay,15,high school,none,40,46,68
+female,Malay,17,postgraduate degree,completed,96,52,62
+female,Indian,16,diploma,completed,69,97,84
+male,Malay,17,diploma,none,76,76,85
+female,Others,15,undergraduate degree,none,70,84,89
+male,Malay,14,undergraduate degree,completed,96,72,90
+male,Malay,14,diploma,completed,51,69,61
+female,Indian,13,diploma,none,65,35,68
+male,Others,15,high school,none,73,79,76
+male,Malay,14,diploma,none,68,51,58
+female,Others,15,undergraduate degree,completed,60,55,54
+male,Chinese,13,undergraduate degree,none,44,69,80
+male,Chinese,15,high school,none,29,68,51
+female,Chinese,14,undergraduate degree,none,59,46,46
+female,Malay,16,undergraduate degree,none,26,75,96
+male,Malay,15,undergraduate degree,none,54,54,76
+female,Chinese,15,undergraduate degree,completed,53,53,65
+male,Malay,14,undergraduate degree,none,56,57,78
+female,Indian,16,undergraduate degree,none,39,31,55
+male,Indian,16,high school,completed,76,81,85
+female,Chinese,15,high school,completed,61,80,89
+male,Indian,14,diploma,completed,77,61,72
+male,Malay,14,undergraduate degree,none,75,62,76
+female,Indian,15,undergraduate degree,none,44,27,76
+male,Malay,16,high school,none,65,41,59
+female,Malay,14,high school,completed,83,65,74
+female,Indian,16,undergraduate degree,completed,62,60,77
+male,Malay,15,diploma,none,73,27,74
+female,Chinese,17,high school,none,23,60,71
+female,Chinese,15,high school,completed,71,97,88
+female,Chinese,14,high school,none,80,37,71
+male,Malay,16,diploma,completed,64,55,73
+female,Chinese,16,postgraduate degree,none,65,54,59
+male,Malay,15,high school,none,81,70,64
+male,Malay,13,diploma,none,82,43,63
+male,Malay,13,high school,none,62,46,80
+male,Chinese,17,high school,none,81,50,47
+male,Chinese,17,undergraduate degree,none,37,41,48
+female,Others,15,diploma,completed,77,77,79
+female,Malay,14,undergraduate degree,none,65,70,78
+male,Malay,16,undergraduate degree,none,37,50,65
+male,Indian,14,postgraduate degree,none,57,77,84
+male,Malay,14,high school,completed,76,96,96
+male,Chinese,16,undergraduate degree,none,67,80,75
+male,Indian,14,undergraduate degree,none,46,73,82
+female,Indian,13,diploma,completed,61,79,93
+male,Malay,15,diploma,completed,63,68,78
+female,Malay,17,postgraduate degree,none,64,58,45
+male,Others,17,high school,none,84,54,45
+female,Chinese,15,diploma,completed,48,73,98
+female,Others,15,high school,none,31,84,76
+male,Chinese,13,high school,none,43,37,79
+female,Indian,16,high school,none,51,48,54
+female,Others,13,postgraduate degree,completed,55,86,89
+female,Malay,13,undergraduate degree,completed,67,92,75
+female,Indian,16,high school,none,32,67,50
+female,Malay,13,high school,completed,65,85,82
+male,Malay,14,high school,none,60,47,73
+male,Malay,15,diploma,none,67,42,74
+male,Malay,16,high school,none,60,52,57
+male,Malay,15,undergraduate degree,none,69,43,51
+male,Malay,15,diploma,none,65,85,90
+male,Malay,17,diploma,none,62,59,58
+male,Malay,13,undergraduate degree,none,48,34,58
+female,Others,15,high school,completed,87,62,46
+female,Malay,13,diploma,none,32,53,65
+male,Chinese,13,high school,completed,68,52,55
+female,Others,15,high school,none,59,57,71
+male,Chinese,15,high school,none,30,24,64
+male,Malay,16,diploma,none,70,83,79
+male,Chinese,15,undergraduate degree,none,43,53,57
+male,Others,14,undergraduate degree,completed,51,71,98
+male,Chinese,14,high school,none,72,24,73
+male,Malay,15,diploma,completed,70,56,54
+female,Others,14,high school,completed,51,75,96
+male,Malay,16,high school,none,75,70,51
+male,Malay,16,diploma,completed,67,50,67
+male,Chinese,16,postgraduate degree,completed,82,87,79
+male,Others,16,high school,none,52,43,60
+female,Indian,17,high school,none,64,83,84
+male,Malay,14,diploma,completed,78,63,46
+female,Malay,13,undergraduate degree,none,61,48,67
+female,Indian,17,undergraduate degree,none,61,62,58
+female,Malay,17,undergraduate degree,none,68,50,46
+male,Chinese,14,undergraduate degree,none,78,38,69
+male,Malay,17,high school,none,32,56,74
+male,Malay,13,diploma,none,85,24,50
+male,Malay,16,postgraduate degree,completed,59,69,62
+male,Chinese,13,postgraduate degree,none,69,47,75
+male,Chinese,14,undergraduate degree,none,85,34,74
+male,Malay,17,undergraduate degree,none,55,63,46
+male,Others,13,high school,completed,75,89,76
+male,Malay,13,undergraduate degree,none,75,67,72
+male,Others,17,diploma,completed,84,67,46
+male,Malay,14,postgraduate degree,none,53,69,73
+female,Chinese,13,diploma,completed,60,87,98
+male,Malay,16,diploma,completed,81,87,93
+male,Others,16,diploma,completed,98,61,73
+male,Malay,17,undergraduate degree,none,34,51,46
+female,Chinese,14,high school,none,75,59,74
+female,Malay,14,diploma,none,71,80,81
+female,Malay,15,high school,none,67,42,50
+male,Malay,17,diploma,none,23,69,48
+female,Indian,17,undergraduate degree,none,64,70,58
+female,Malay,17,high school,none,25,82,75
+female,Others,14,high school,none,74,47,49
+female,Malay,14,undergraduate degree,none,69,70,71
+male,Malay,14,high school,none,51,70,67
+male,Chinese,13,high school,none,67,62,45
+female,Chinese,15,diploma,completed,78,97,96
+female,Malay,17,undergraduate degree,none,51,66,70
+female,Malay,17,undergraduate degree,none,60,71,94
+male,Malay,13,undergraduate degree,none,84,59,77
+female,Chinese,17,diploma,completed,49,92,80
+male,Malay,13,diploma,none,39,35,70
+male,Malay,16,diploma,completed,98,91,90
+male,Malay,17,high school,none,35,25,45
+male,Malay,14,undergraduate degree,completed,79,77,85
+female,Malay,17,high school,none,47,52,66
+male,Others,13,undergraduate degree,none,82,23,72
+female,Malay,17,high school,none,75,79,88
+male,Indian,15,high school,none,32,63,60
+male,Indian,13,high school,none,51,80,92
+female,Malay,15,diploma,none,72,26,74
+female,Malay,16,diploma,completed,88,59,71
+male,Chinese,13,diploma,none,44,24,62
+male,Indian,17,undergraduate degree,completed,98,89,91
+male,Malay,17,undergraduate degree,none,75,49,67
+male,Malay,17,undergraduate degree,none,73,56,72
+male,Malay,16,high school,none,72,81,75
+male,Chinese,17,high school,none,45,63,75
+male,Malay,14,diploma,none,54,31,67
+female,Chinese,13,high school,completed,75,91,98
+female,Malay,14,diploma,none,41,58,71
+male,Chinese,15,diploma,completed,80,83,92
+female,Malay,13,undergraduate degree,none,42,69,80
+female,Chinese,13,diploma,completed,57,87,79
+female,Indian,16,diploma,none,42,65,51
+female,Others,16,diploma,none,37,40,68
+female,Indian,14,undergraduate degree,none,41,74,88
+female,Malay,14,undergraduate degree,completed,94,88,92
+male,Malay,13,high school,none,79,28,78
+female,Chinese,16,high school,none,46,39,53
+male,Chinese,14,undergraduate degree,none,39,54,74
+female,Chinese,15,high school,none,53,36,50
+female,Chinese,17,undergraduate degree,completed,79,89,89
+male,Chinese,16,diploma,none,30,46,55
+male,Malay,14,high school,none,52,67,77
+female,Chinese,13,high school,none,65,46,67
+female,Chinese,15,high school,completed,87,89,92
+female,Chinese,15,high school,none,77,27,66
+male,Malay,15,high school,none,25,80,86
+female,Malay,14,undergraduate degree,none,28,60,53
+female,Malay,16,postgraduate degree,none,59,47,58
+male,Indian,17,undergraduate degree,completed,97,51,57
+female,Indian,15,high school,none,34,76,77
+female,Malay,15,diploma,none,56,74,97
+female,Malay,15,high school,none,23,79,81
+female,Chinese,16,undergraduate degree,none,23,78,85
+male,Indian,13,high school,completed,94,53,74
+female,Malay,14,diploma,completed,98,59,77
+female,Malay,13,high school,none,82,83,82
+male,Chinese,17,undergraduate degree,none,80,70,47
+female,Malay,13,diploma,none,84,82,82
+male,Indian,16,diploma,none,29,36,67
+female,Malay,17,postgraduate degree,none,42,67,61
+female,Malay,16,undergraduate degree,completed,94,93,90
+female,Malay,15,undergraduate degree,none,48,43,46
+female,Malay,13,undergraduate degree,completed,63,98,89
+female,Malay,17,postgraduate degree,completed,97,79,89
+male,Malay,13,diploma,completed,69,95,79
+female,Indian,17,diploma,none,84,65,54
+male,Chinese,17,postgraduate degree,none,70,79,91
+female,Chinese,17,high school,completed,56,92,96
+female,Malay,15,high school,completed,50,55,46
+male,Chinese,13,high school,none,31,77,92
+male,Others,17,high school,completed,95,59,56
+female,Indian,14,undergraduate degree,none,27,54,65
+female,Malay,13,diploma,completed,53,82,93
+female,Malay,17,diploma,none,40,54,70
+male,Malay,17,undergraduate degree,none,35,30,65
+female,Malay,14,high school,none,44,25,58
+male,Chinese,15,undergraduate degree,completed,60,62,73
+female,Malay,13,high school,none,35,57,79
+female,Malay,14,postgraduate degree,none,41,74,78
+female,Malay,17,undergraduate degree,none,63,68,62
+male,Malay,14,high school,none,42,36,67
+female,Chinese,16,high school,none,33,32,54
+female,Others,16,high school,none,73,26,72
+male,Malay,16,undergraduate degree,completed,72,88,76
+female,Malay,15,undergraduate degree,completed,62,92,90
+male,Malay,17,postgraduate degree,none,42,52,51
+female,Malay,13,diploma,completed,75,90,96
+female,Malay,13,undergraduate degree,none,27,44,54
+female,Malay,13,undergraduate degree,none,73,55,67
+male,Malay,16,diploma,none,74,84,81
+female,Chinese,17,postgraduate degree,completed,62,59,59
+female,Malay,17,diploma,none,32,54,72
+male,Malay,15,diploma,none,34,38,56
+female,Malay,17,high school,none,85,44,66
+male,Indian,17,high school,none,23,41,58
+female,Malay,14,high school,completed,47,70,46
+male,Malay,14,undergraduate degree,none,74,82,81
+male,Indian,16,high school,none,55,43,59
+female,Chinese,16,diploma,none,43,54,64
+male,Chinese,15,diploma,none,75,47,48
+female,Chinese,16,high school,none,83,69,74
+male,Malay,15,diploma,completed,73,97,78
+female,Indian,13,high school,none,54,72,76
+female,Others,13,diploma,none,33,34,59
+female,Chinese,16,diploma,none,60,39,55
+female,Others,16,high school,none,57,78,84
+female,Indian,15,high school,completed,77,75,78
+female,Indian,15,diploma,completed,71,87,78
+male,Malay,13,undergraduate degree,completed,86,90,87
+female,Malay,17,postgraduate degree,none,64,51,48
+female,Malay,14,high school,none,31,56,51
+male,Chinese,14,undergraduate degree,none,85,23,77
+female,Indian,14,undergraduate degree,none,72,28,53
+female,Others,16,undergraduate degree,none,82,61,49
+male,Malay,14,diploma,none,40,39,55
+male,Malay,14,undergraduate degree,none,67,84,79
+male,Chinese,13,postgraduate degree,completed,51,95,85
+female,Malay,14,undergraduate degree,none,25,63,51
+female,Indian,13,undergraduate degree,none,61,55,54
+male,Malay,16,diploma,none,39,29,45
+male,Others,14,high school,none,81,66,62
+female,Malay,14,diploma,completed,97,51,70
+female,Chinese,14,undergraduate degree,none,49,83,75
+male,Malay,17,undergraduate degree,none,39,65,62
+male,Chinese,14,high school,none,51,71,89
+female,Malay,16,high school,completed,94,87,87
+male,Chinese,14,high school,completed,93,89,98
+female,Malay,15,undergraduate degree,none,64,78,87
+male,Indian,15,high school,none,24,26,77
+male,Malay,16,high school,none,75,64,71
+female,Chinese,17,undergraduate degree,completed,58,95,87
+female,Malay,17,undergraduate degree,completed,85,93,93
+female,Indian,16,high school,none,39,71,81
+female,Malay,17,diploma,completed,96,85,94
+male,Malay,17,high school,none,63,77,87
+male,Indian,14,diploma,completed,96,63,59
+female,Others,13,high school,none,81,74,78
+female,Chinese,13,undergraduate degree,none,41,79,97
+female,Chinese,17,undergraduate degree,none,56,62,57
+female,Malay,13,postgraduate degree,completed,82,70,45
+male,Chinese,13,undergraduate degree,none,35,85,76
+male,Others,13,high school,completed,81,71,89
+female,Malay,14,undergraduate degree,none,49,49,71
+female,Others,14,undergraduate degree,completed,70,83,96
+female,Indian,16,undergraduate degree,none,73,78,93
+female,Malay,17,undergraduate degree,none,65,49,60
+male,Malay,14,high school,completed,64,67,54
+male,Chinese,15,undergraduate degree,completed,97,76,83
+male,Others,17,diploma,completed,47,53,52
+male,Chinese,16,diploma,none,57,73,85
+male,Malay,14,diploma,completed,48,62,75
+male,Chinese,17,high school,none,54,34,57
+male,Chinese,15,high school,none,65,79,82
+female,Malay,15,high school,completed,95,52,53
+male,Malay,14,high school,none,85,38,67
+female,Indian,15,undergraduate degree,completed,58,97,84
+male,Malay,15,postgraduate degree,none,52,78,88
+male,Chinese,14,undergraduate degree,completed,86,76,91
+female,Malay,17,high school,none,44,83,85
+male,Others,16,diploma,none,31,47,72
+female,Malay,17,postgraduate degree,completed,54,84,84
+male,Chinese,15,high school,none,69,82,86
+female,Malay,17,undergraduate degree,none,31,72,94
+male,Chinese,15,undergraduate degree,completed,86,56,53
+male,Malay,14,high school,completed,47,96,91
+male,Malay,13,diploma,none,63,70,55
+female,Indian,17,diploma,none,37,41,78
+male,Malay,16,high school,none,57,58,76
+male,Indian,13,undergraduate degree,none,62,74,95
+female,Malay,16,high school,none,45,49,71
+female,Malay,17,diploma,none,49,41,64
+male,Malay,14,high school,completed,94,85,93
+male,Chinese,13,undergraduate degree,none,42,70,54
+male,Malay,16,diploma,none,66,55,62
+female,Chinese,17,undergraduate degree,none,76,38,65
+female,Chinese,15,high school,completed,47,71,89
+female,Chinese,16,high school,none,47,31,52
+female,Malay,14,diploma,completed,51,50,61
+male,Malay,17,undergraduate degree,completed,72,73,76
+male,Malay,15,undergraduate degree,none,25,57,56
+female,Indian,14,diploma,completed,45,56,57
+male,Indian,16,undergraduate degree,none,31,38,59
+female,Indian,16,high school,none,48,29,48
+female,Indian,14,high school,none,78,83,86
+female,Indian,17,undergraduate degree,none,38,55,70
+female,Indian,16,undergraduate degree,completed,77,78,93
+male,Malay,14,high school,completed,88,98,81
+female,Malay,14,high school,completed,58,94,84
+male,Malay,13,high school,none,24,84,96
+male,Malay,14,undergraduate degree,none,69,70,76
+female,Malay,14,high school,none,36,32,74
+male,Indian,16,high school,completed,47,80,80
+female,Indian,17,diploma,completed,58,94,83
+male,Malay,13,undergraduate degree,none,24,53,75
+female,Chinese,15,high school,none,49,30,62
+female,Indian,14,high school,none,37,31,68
+female,Malay,15,undergraduate degree,none,42,24,70
+male,Indian,14,high school,completed,54,57,52
+female,Indian,14,high school,none,79,66,47
+female,Others,17,undergraduate degree,completed,96,90,89
+female,Others,17,undergraduate degree,none,80,43,50
+female,Chinese,13,diploma,none,66,36,79
+male,Malay,16,undergraduate degree,completed,62,74,80
+male,Chinese,17,high school,none,47,39,45
+male,Malay,13,high school,none,51,29,48
+male,Others,13,undergraduate degree,completed,79,87,94
+female,Malay,14,high school,completed,54,67,79
+male,Malay,14,undergraduate degree,none,65,73,97
+female,Malay,17,diploma,completed,63,92,88
+male,Malay,17,high school,none,43,73,90
+female,Malay,13,high school,none,61,65,49
+male,Chinese,16,high school,none,62,55,74
+male,Chinese,15,high school,none,56,77,94
+female,Others,14,high school,completed,70,79,82
+male,Malay,17,high school,none,25,77,94
+female,Indian,15,postgraduate degree,completed,89,53,79
+female,Indian,14,high school,completed,57,57,79
+female,Chinese,17,diploma,completed,95,53,72
+male,Indian,13,diploma,none,83,29,51
+female,Others,17,high school,none,85,78,83
+female,Malay,13,high school,none,50,70,65
+male,Malay,16,high school,completed,96,72,96
+female,Indian,16,undergraduate degree,completed,65,73,84
+male,Indian,15,undergraduate degree,completed,89,71,84
+male,Indian,16,diploma,none,51,31,69
+female,Malay,15,undergraduate degree,completed,91,84,76
+male,Malay,15,undergraduate degree,none,48,71,93
+female,Malay,14,postgraduate degree,none,69,29,57
+male,Malay,13,diploma,completed,76,60,51
+female,Indian,14,postgraduate degree,none,29,35,62
+male,Malay,17,high school,none,64,67,55
+male,Malay,13,high school,completed,78,65,65
+female,Chinese,13,undergraduate degree,none,82,57,80
+female,Malay,16,undergraduate degree,none,65,79,81
+female,Malay,17,undergraduate degree,none,29,84,87
+male,Chinese,14,diploma,none,69,72,89
+male,Chinese,17,diploma,completed,83,59,61
+male,Chinese,17,undergraduate degree,completed,46,59,66
+female,Malay,13,postgraduate degree,none,78,45,61
+male,Indian,16,high school,none,49,56,67
+male,Indian,15,diploma,completed,86,64,78
+male,Malay,17,high school,completed,52,94,98
+female,Malay,15,diploma,none,38,60,67
+male,Chinese,15,undergraduate degree,none,77,26,76
+male,Malay,17,high school,none,51,75,91
+male,Malay,13,postgraduate degree,none,34,49,71
+male,Malay,17,high school,none,68,62,74
+male,Others,15,high school,completed,76,55,56
+male,Chinese,14,undergraduate degree,none,38,52,51
+male,Malay,13,diploma,none,81,64,75
+male,Malay,15,diploma,none,25,69,51
+male,Chinese,13,high school,none,47,73,79
+male,Malay,17,undergraduate degree,none,80,80,80
+male,Indian,15,high school,completed,70,55,58
+male,Others,15,postgraduate degree,none,42,40,61
+female,Malay,14,undergraduate degree,none,29,38,52
+female,Malay,16,undergraduate degree,none,42,24,74
+male,Malay,15,high school,none,75,46,62
+male,Chinese,16,high school,none,71,70,57
+female,Chinese,15,high school,completed,68,60,71
+male,Others,15,high school,none,67,81,76
+male,Malay,15,high school,completed,89,92,95
+female,Chinese,16,high school,completed,91,91,98
+male,Chinese,16,undergraduate degree,completed,57,68,66
+female,Malay,13,high school,none,70,66,49
+female,Chinese,17,undergraduate degree,none,60,55,80
+male,Chinese,15,undergraduate degree,none,34,46,60
+female,Malay,15,postgraduate degree,none,55,72,80
+female,Others,16,high school,none,52,25,78
+male,Malay,15,high school,none,62,26,58
+female,Malay,17,high school,none,60,30,76
+male,Indian,13,high school,completed,62,81,77
+female,Malay,14,high school,completed,80,76,80
+male,Malay,15,diploma,none,51,58,65
+male,Indian,16,high school,none,26,82,75
+female,Malay,13,high school,none,84,34,80
+male,Malay,14,high school,none,76,30,51
+female,Malay,13,diploma,none,48,46,60
+male,Malay,15,postgraduate degree,completed,59,53,46
+male,Chinese,14,high school,completed,95,93,81
+female,Malay,13,high school,none,80,45,72
+male,Malay,17,high school,none,52,33,62
+male,Malay,14,high school,completed,47,60,45
+male,Malay,14,undergraduate degree,completed,85,93,92
+male,Others,13,high school,completed,60,84,89
+male,Chinese,17,undergraduate degree,completed,82,60,54
+male,Chinese,16,undergraduate degree,none,31,57,79
+female,Malay,17,high school,none,33,32,80
+male,Chinese,16,postgraduate degree,none,58,41,63
+male,Malay,13,high school,none,81,75,93
+male,Chinese,17,high school,none,25,73,86
+female,Indian,17,undergraduate degree,none,33,29,74
+female,Malay,17,high school,none,80,65,46
+male,Malay,13,undergraduate degree,none,34,26,49
+male,Indian,17,undergraduate degree,none,77,50,52
+female,Indian,14,undergraduate degree,completed,84,97,82
+female,Chinese,16,postgraduate degree,completed,68,97,98
+male,Malay,15,high school,none,42,49,47
+female,Malay,15,high school,none,83,38,67
+male,Chinese,14,diploma,completed,95,64,64
+male,Indian,13,undergraduate degree,none,83,27,78
+male,Malay,16,high school,none,65,37,76
+male,Malay,16,undergraduate degree,completed,48,73,96
+male,Indian,17,undergraduate degree,completed,92,77,85
+female,Chinese,15,undergraduate degree,none,71,28,54
+female,Malay,14,undergraduate degree,completed,79,72,93
+female,Others,17,high school,none,31,24,53
+male,Malay,14,diploma,none,39,64,68
+male,Indian,17,undergraduate degree,completed,54,67,58
+female,Malay,15,diploma,none,52,85,86
+male,Indian,13,high school,none,27,75,83
+female,Others,16,diploma,none,24,70,50
+male,Malay,14,diploma,completed,94,82,97
+male,Chinese,16,postgraduate degree,none,67,36,76
+female,Indian,15,high school,none,62,52,46
+male,Indian,17,undergraduate degree,completed,70,52,63
+male,Indian,13,diploma,none,63,27,70
+female,Malay,15,high school,completed,56,59,55
+female,Malay,16,high school,none,85,46,75
+female,Indian,17,diploma,completed,97,50,48
+female,Malay,14,undergraduate degree,completed,74,64,65
+female,Others,16,undergraduate degree,none,72,58,48
+female,Malay,13,undergraduate degree,none,60,59,75
+male,Others,13,high school,completed,85,93,78
+female,Chinese,14,undergraduate degree,none,82,78,85
+female,Chinese,13,diploma,none,46,29,50
+male,Malay,16,undergraduate degree,completed,62,89,91
+female,Others,13,high school,none,45,62,74
+female,Others,14,diploma,none,58,35,78
+male,Others,17,high school,none,74,36,47
+female,Chinese,14,high school,none,42,49,63
+female,Others,15,undergraduate degree,none,83,81,88
+male,Chinese,16,high school,none,84,23,59
+male,Malay,13,high school,none,74,49,79
+male,Others,16,undergraduate degree,completed,71,98,86
+female,Others,15,undergraduate degree,none,24,78,96
+female,Malay,16,diploma,completed,95,64,53
+male,Chinese,17,postgraduate degree,none,49,84,75
+male,Others,17,diploma,none,68,28,55
+female,Indian,13,high school,completed,81,85,98
+male,Malay,17,high school,completed,96,65,57
+female,Indian,16,high school,none,81,42,79
+female,Chinese,17,undergraduate degree,none,47,49,55
+female,Malay,14,high school,none,58,80,87
+female,Malay,16,diploma,completed,91,88,81
+male,Malay,15,undergraduate degree,none,24,30,78
+female,Malay,17,undergraduate degree,completed,51,60,63
+female,Indian,13,undergraduate degree,none,24,54,67
+male,Malay,14,diploma,none,32,43,53
+male,Chinese,14,diploma,none,51,74,79
+female,Malay,17,high school,completed,77,92,95
+female,Malay,14,undergraduate degree,completed,98,80,84
+female,Chinese,15,high school,completed,47,82,77
+male,Chinese,15,high school,none,47,74,98
+male,Malay,13,diploma,none,30,81,86
+female,Malay,15,high school,completed,89,57,52
+female,Malay,16,high school,none,80,31,48
+male,Malay,15,high school,none,53,68,58
+female,Chinese,13,undergraduate degree,completed,80,91,91
+female,Indian,13,undergraduate degree,none,39,31,47
+female,Others,17,undergraduate degree,completed,94,53,49
+female,Indian,17,high school,none,24,45,62
+male,Others,14,high school,completed,68,55,61
+female,Malay,15,high school,none,66,37,62
+female,Malay,15,high school,none,61,44,56
+male,Indian,17,postgraduate degree,completed,51,65,61
+male,Malay,13,undergraduate degree,none,55,43,51
+female,Malay,17,postgraduate degree,none,23,57,63
+female,Malay,16,diploma,completed,84,79,90
+male,Malay,15,diploma,none,52,38,78
+female,Chinese,14,high school,completed,46,88,88
+female,Indian,14,undergraduate degree,none,61,82,91
+female,Chinese,16,high school,completed,85,61,61
+female,Chinese,15,high school,none,49,50,66
+male,Malay,17,high school,none,47,77,81
+female,Malay,15,diploma,none,38,58,78
+female,Chinese,16,undergraduate degree,none,80,51,59
+female,Chinese,16,high school,completed,60,52,71
+female,Chinese,16,high school,none,58,72,85
+male,Malay,17,high school,none,53,31,71
+female,Malay,13,undergraduate degree,completed,52,67,66
+male,Malay,14,diploma,completed,62,76,77
+female,Malay,17,undergraduate degree,completed,80,74,93
+female,Indian,17,high school,completed,85,74,93
+female,Malay,13,undergraduate degree,none,79,28,45
+male,Chinese,13,undergraduate degree,completed,50,53,54
+male,Malay,14,diploma,none,82,40,46
+male,Others,16,diploma,completed,97,65,65
+female,Others,13,high school,none,58,68,69
+male,Malay,16,diploma,completed,91,59,77
+female,Malay,16,undergraduate degree,none,66,57,63
+male,Indian,17,undergraduate degree,none,56,79,83
+female,Chinese,13,high school,completed,92,83,89
+female,Malay,17,diploma,none,74,52,47
+female,Others,13,undergraduate degree,completed,86,86,95
+male,Indian,17,high school,none,53,64,60
+female,Indian,16,high school,none,74,85,75
+female,Chinese,16,postgraduate degree,none,61,35,53
+male,Malay,16,diploma,none,53,46,72
+female,Others,15,diploma,none,74,26,63
+female,Indian,17,undergraduate degree,none,70,54,78
+male,Chinese,14,undergraduate degree,none,40,25,61
+male,Chinese,13,diploma,completed,88,53,50
+female,Chinese,15,high school,completed,78,92,88
+female,Malay,14,high school,none,66,56,58
+male,Malay,17,diploma,completed,82,60,75
+male,Chinese,16,undergraduate degree,none,62,27,55
+female,Malay,14,postgraduate degree,completed,95,69,59
+male,Malay,15,undergraduate degree,completed,66,73,95
+female,Indian,15,high school,none,43,72,97
+male,Malay,15,high school,completed,58,72,88
+female,Indian,13,diploma,none,82,33,69
+male,Chinese,14,undergraduate degree,none,71,67,77
+male,Malay,16,high school,completed,60,97,75
+male,Indian,15,high school,none,59,49,72
+male,Malay,17,high school,completed,85,93,81
+female,Chinese,13,diploma,none,68,73,87
+female,Malay,15,high school,completed,71,51,48
+female,Indian,14,diploma,completed,81,55,80
+female,Indian,17,undergraduate degree,none,82,62,78
+female,Indian,13,diploma,none,23,36,66
+female,Others,17,high school,none,83,47,57
+female,Malay,14,high school,none,63,34,60
+male,Malay,14,undergraduate degree,none,55,51,50
+female,Malay,13,undergraduate degree,completed,51,97,81
+male,Malay,14,high school,completed,63,92,75
+male,Malay,13,undergraduate degree,completed,86,79,87
+female,Malay,16,high school,completed,65,97,86
+male,Chinese,17,undergraduate degree,none,74,49,60
+female,Malay,17,high school,completed,71,80,77
+male,Indian,14,high school,none,63,51,53
+male,Chinese,14,high school,none,50,58,63
+male,Others,16,high school,none,47,85,94
+male,Chinese,13,high school,none,58,34,70
+male,Malay,14,high school,completed,85,53,72
+male,Indian,17,diploma,none,57,33,76
+female,Malay,15,diploma,completed,47,84,96
+female,Malay,16,high school,completed,78,83,91
+female,Chinese,14,undergraduate degree,none,61,34,67
+male,Others,13,postgraduate degree,none,35,70,58
+male,Malay,16,high school,completed,71,64,62
+female,Others,16,diploma,none,69,63,45
+male,Chinese,17,high school,none,48,51,48
+female,Chinese,13,high school,none,31,76,76
+male,Malay,13,undergraduate degree,none,43,65,70
+female,Malay,14,undergraduate degree,none,63,71,94
+male,Chinese,13,undergraduate degree,none,73,42,78
+male,Others,17,diploma,none,64,41,56
+female,Malay,13,high school,none,27,53,50
+female,Malay,14,undergraduate degree,none,24,40,58
+female,Chinese,14,high school,completed,97,80,87
+female,Chinese,15,high school,none,52,42,62
+female,Indian,15,undergraduate degree,completed,75,83,89
+female,Malay,15,high school,none,67,65,57
+female,Malay,15,undergraduate degree,none,63,74,76
+male,Malay,15,undergraduate degree,completed,67,89,93
+male,Malay,16,postgraduate degree,none,24,64,71
+female,Chinese,14,undergraduate degree,none,34,42,75
+female,Malay,13,postgraduate degree,completed,63,95,86
+female,Malay,14,high school,completed,52,94,95
+male,Malay,17,high school,none,37,36,79
+female,Others,17,diploma,none,60,79,77
+male,Others,16,postgraduate degree,completed,85,53,71
+female,Malay,15,high school,none,55,65,51
+male,Malay,13,undergraduate degree,none,23,56,55
+female,Chinese,15,undergraduate degree,none,66,47,78
+female,Indian,17,high school,none,49,83,90
+female,Malay,16,high school,none,59,32,78
+female,Chinese,13,high school,completed,88,77,93
+male,Chinese,13,undergraduate degree,none,74,47,45
+male,Malay,16,diploma,none,57,66,65
+male,Malay,13,undergraduate degree,none,41,71,77
+male,Malay,14,undergraduate degree,none,84,72,77
+female,Indian,16,high school,completed,51,68,76
+male,Chinese,16,high school,none,31,30,49
+female,Malay,15,high school,none,39,70,57
+male,Malay,13,high school,none,38,81,91
+male,Others,13,high school,none,26,75,75
+female,Malay,13,undergraduate degree,completed,69,74,86
+male,Chinese,15,high school,none,77,54,63
+male,Malay,16,diploma,completed,50,50,73
+male,Malay,17,undergraduate degree,none,74,43,45
+female,Malay,13,high school,none,67,84,85
+female,Malay,13,diploma,none,35,33,61
+female,Malay,15,diploma,none,75,52,57
+female,Malay,17,undergraduate degree,none,53,73,82
+female,Malay,15,high school,completed,57,65,72
+male,Chinese,17,undergraduate degree,completed,57,91,85
+female,Malay,14,undergraduate degree,none,35,37,64
+female,Others,13,undergraduate degree,none,33,49,54
+male,Malay,17,high school,none,59,36,63
+male,Chinese,13,diploma,completed,66,72,93
+female,Indian,16,high school,none,40,47,79
+male,Malay,17,diploma,none,43,57,49
+male,Malay,14,undergraduate degree,none,69,70,69
+male,Malay,15,high school,none,65,80,82
+female,Malay,13,undergraduate degree,completed,79,58,64
+male,Chinese,17,undergraduate degree,none,38,82,92
+female,Others,13,postgraduate degree,completed,57,88,87
+female,Malay,14,high school,none,78,55,71
+male,Chinese,16,high school,none,27,30,59
+female,Chinese,16,diploma,none,80,51,75
+female,Chinese,13,high school,none,39,47,75
+male,Chinese,16,high school,none,36,60,76
+male,Chinese,14,undergraduate degree,none,71,33,48
+male,Malay,17,undergraduate degree,none,49,48,64
+female,Malay,14,high school,completed,65,89,91
+female,Indian,16,undergraduate degree,completed,51,88,88
+male,Indian,13,diploma,completed,61,60,80
+female,Malay,16,undergraduate degree,completed,96,80,83
+female,Indian,14,high school,none,54,39,62
+male,Indian,13,high school,completed,81,69,77
+male,Others,16,high school,completed,82,53,75
+female,Chinese,17,undergraduate degree,none,79,83,79
+male,Others,15,high school,completed,73,92,91
+male,Chinese,14,high school,completed,62,97,86
+male,Indian,16,diploma,completed,47,75,94
+female,Malay,15,postgraduate degree,none,37,81,90
+female,Chinese,13,postgraduate degree,none,71,54,55
+male,Chinese,16,high school,completed,57,66,80
+male,Indian,14,high school,completed,96,69,62
+male,Indian,17,diploma,none,33,44,68
+female,Malay,13,diploma,none,66,23,53
+male,Chinese,13,undergraduate degree,none,78,73,78
+male,Malay,16,undergraduate degree,completed,63,53,54
+male,Malay,13,high school,none,52,70,53
+female,Malay,17,high school,none,68,77,97
+female,Indian,16,undergraduate degree,completed,76,57,69
+male,Malay,14,undergraduate degree,none,33,37,79
+female,Malay,13,high school,none,62,77,76
+female,Malay,16,diploma,completed,75,56,47
+male,Malay,16,high school,none,31,25,70
+male,Malay,13,high school,completed,52,95,96
+female,Chinese,15,undergraduate degree,completed,57,55,72
+male,Others,17,diploma,completed,89,93,84
+male,Malay,14,undergraduate degree,none,28,77,75
+female,Chinese,13,high school,none,28,27,49
+female,Chinese,16,undergraduate degree,none,60,75,77
+male,Malay,16,diploma,none,68,29,78
+male,Chinese,16,diploma,completed,78,70,75
+female,Indian,13,high school,none,72,76,82
+male,Malay,15,high school,completed,98,81,83
+female,Indian,16,high school,none,82,83,93
+male,Chinese,13,high school,none,37,57,73
+female,Malay,14,undergraduate degree,none,76,49,74
+female,Malay,17,high school,none,24,42,47
+male,Malay,13,diploma,none,24,79,85
+male,Indian,16,undergraduate degree,none,45,83,93
+male,Malay,17,high school,completed,49,71,80
+male,Chinese,17,undergraduate degree,completed,96,59,56
+male,Chinese,16,diploma,completed,58,85,92
+male,Malay,15,undergraduate degree,completed,97,70,80
+female,Indian,17,diploma,none,62,52,80
+male,Malay,17,undergraduate degree,none,40,35,69
+female,Chinese,15,high school,none,65,75,96
+female,Chinese,14,undergraduate degree,completed,74,85,81
+female,Malay,14,undergraduate degree,completed,88,72,84
+female,Others,16,high school,none,45,42,79
+female,Chinese,15,diploma,completed,82,70,46
+female,Chinese,17,diploma,completed,45,67,58
+female,Indian,13,undergraduate degree,none,85,73,75
+male,Malay,16,diploma,completed,56,63,52
+female,Chinese,16,high school,none,56,72,76
+female,Indian,15,high school,none,68,41,78
+female,Chinese,16,high school,completed,88,98,93
+male,Malay,17,diploma,none,29,41,70
+male,Chinese,14,postgraduate degree,none,33,47,50
+female,Chinese,13,high school,completed,80,59,54
+female,Chinese,14,high school,none,67,75,94
+male,Chinese,15,undergraduate degree,none,48,77,92
+female,Malay,13,undergraduate degree,none,50,69,71
+female,Malay,14,high school,none,63,70,77
+male,Indian,13,undergraduate degree,completed,56,80,81
+female,Malay,14,high school,none,63,31,49
+female,Malay,13,diploma,completed,61,72,88
+male,Malay,16,undergraduate degree,none,52,50,56
+male,Chinese,14,diploma,none,55,31,55
+male,Chinese,15,diploma,completed,62,58,60
+male,Malay,15,high school,none,41,49,56
+female,Chinese,16,undergraduate degree,completed,96,94,97
+female,Malay,13,undergraduate degree,none,23,28,48
+male,Malay,16,undergraduate degree,completed,83,65,59
+male,Indian,13,high school,none,30,76,88
+male,Chinese,15,high school,none,42,49,51
+male,Chinese,16,undergraduate degree,completed,71,89,96
+male,Malay,13,diploma,completed,62,92,96
+female,Chinese,16,high school,none,78,73,90
+female,Malay,16,undergraduate degree,none,42,51,79
+male,Chinese,14,high school,completed,50,51,57
+female,Malay,17,undergraduate degree,none,80,56,61
+female,Malay,13,diploma,none,43,42,45
+male,Malay,14,high school,none,84,39,66
+female,Indian,15,high school,none,75,63,57
+female,Malay,14,high school,none,46,45,79
+female,Chinese,14,high school,none,43,58,75
+female,Others,15,high school,completed,72,94,76
+male,Malay,14,postgraduate degree,none,42,27,77
+male,Malay,17,high school,none,42,70,53
+male,Malay,17,undergraduate degree,none,53,79,88
+male,Malay,14,undergraduate degree,none,78,35,47
+male,Malay,16,high school,completed,74,98,80
+female,Malay,15,postgraduate degree,none,54,33,78
+female,Malay,17,high school,completed,95,64,63
+female,Malay,13,undergraduate degree,completed,92,79,81
+female,Indian,16,undergraduate degree,none,68,66,68
+male,Others,15,diploma,completed,64,59,60
+male,Malay,14,high school,none,58,40,47
+male,Others,14,diploma,completed,53,89,83
+female,Chinese,15,undergraduate degree,none,79,69,45
+male,Malay,16,undergraduate degree,none,85,58,46
+female,Malay,13,diploma,completed,65,81,98
+male,Chinese,17,diploma,none,39,35,55
+female,Malay,16,diploma,completed,68,56,79
+female,Malay,16,undergraduate degree,none,83,34,74
+female,Malay,16,high school,none,35,73,76
+male,Malay,15,high school,completed,76,95,98
+male,Indian,17,undergraduate degree,completed,58,62,74
+female,Malay,16,high school,none,58,79,82
+female,Malay,15,high school,none,31,85,90
+female,Malay,15,undergraduate degree,none,25,33,56
+male,Chinese,14,undergraduate degree,completed,47,65,65
+male,Malay,13,undergraduate degree,completed,54,58,52
+male,Chinese,15,undergraduate degree,none,67,45,51
+male,Malay,17,high school,none,74,80,98
+male,Chinese,13,high school,completed,71,75,86
+male,Malay,14,postgraduate degree,none,30,43,56
+male,Chinese,15,diploma,completed,68,98,98
+male,Indian,13,high school,completed,66,72,90
+female,Indian,14,high school,completed,61,74,76
+male,Malay,13,undergraduate degree,none,53,81,82
+male,Malay,16,diploma,none,79,82,96
+female,Malay,17,undergraduate degree,none,68,25,79
+female,Chinese,17,high school,completed,80,66,59
+female,Others,16,high school,none,62,61,55
+male,Others,16,high school,none,47,73,92
+male,Malay,14,diploma,none,80,80,85
+female,Others,16,undergraduate degree,none,55,34,57
+female,Malay,17,high school,none,74,83,96
+male,Chinese,13,high school,none,56,57,75
+male,Malay,13,high school,none,53,47,67
+male,Malay,13,undergraduate degree,none,59,84,78
+male,Malay,16,diploma,completed,51,58,76
+female,Malay,17,high school,completed,74,86,94
+male,Others,15,diploma,none,60,78,85
+male,Malay,15,high school,none,83,85,96
+male,Malay,13,high school,completed,64,54,66
+male,Malay,13,high school,none,59,76,93
+male,Malay,14,high school,none,53,38,60
+female,Others,17,undergraduate degree,none,57,23,75
+female,Chinese,17,undergraduate degree,none,64,39,62
+male,Malay,16,undergraduate degree,completed,66,71,85
+male,Malay,14,undergraduate degree,completed,93,71,75
+male,Chinese,14,high school,none,57,52,80
+male,Malay,13,high school,completed,64,52,51
+female,Malay,14,high school,none,64,55,47
+male,Malay,13,diploma,none,76,49,55
+male,Malay,14,high school,completed,83,54,62
+female,Malay,13,high school,none,82,43,54
+female,Malay,17,undergraduate degree,none,45,73,94
+male,Malay,15,high school,none,82,79,89
+male,Others,17,undergraduate degree,none,47,84,83
+female,Malay,15,high school,completed,98,54,67
+male,Malay,13,undergraduate degree,completed,46,65,75
+male,Indian,16,undergraduate degree,none,64,80,91
+female,Malay,13,postgraduate degree,completed,55,81,96
+male,Malay,17,high school,none,46,70,50
+female,Malay,16,high school,none,85,56,67
+female,Others,13,undergraduate degree,none,77,23,59
+female,Others,17,undergraduate degree,completed,67,73,81
+male,Chinese,15,undergraduate degree,none,36,34,61
+male,Indian,13,undergraduate degree,none,85,85,93
+male,Malay,14,high school,none,37,72,79
+male,Indian,15,undergraduate degree,completed,59,76,86
+male,Chinese,16,high school,completed,55,50,71
+female,Chinese,14,undergraduate degree,none,58,80,80
+male,Indian,14,undergraduate degree,completed,48,93,83
+male,Malay,16,high school,none,27,85,90
+male,Malay,15,undergraduate degree,none,62,67,68
+male,Malay,15,diploma,none,54,85,89
+female,Chinese,16,undergraduate degree,none,44,77,84
+male,Malay,14,diploma,none,40,32,79
+male,Chinese,16,undergraduate degree,none,78,37,60
+female,Malay,15,high school,completed,78,76,89
+male,Malay,16,undergraduate degree,none,56,74,84
+female,Chinese,15,undergraduate degree,none,32,63,70
+female,Malay,15,diploma,completed,78,98,92
+male,Chinese,15,undergraduate degree,none,48,28,46
+male,Malay,15,diploma,none,84,74,90
+male,Chinese,16,high school,none,32,60,70
+male,Malay,16,high school,none,41,45,62
+male,Indian,14,undergraduate degree,completed,70,85,92
+male,Others,15,undergraduate degree,none,28,29,45
+female,Chinese,16,undergraduate degree,none,27,53,80
+female,Chinese,17,high school,completed,96,56,66
+male,Chinese,14,postgraduate degree,none,85,49,66
+male,Indian,17,undergraduate degree,none,63,55,70
+male,Malay,13,high school,completed,92,73,76
+female,Malay,17,high school,completed,98,89,93
+male,Chinese,15,high school,none,81,28,54
+male,Chinese,17,undergraduate degree,completed,51,66,80
+male,Chinese,13,undergraduate degree,none,45,27,55
+female,Malay,13,undergraduate degree,none,77,39,66
+female,Indian,17,diploma,none,40,32,48
+female,Indian,13,diploma,none,66,35,78
+male,Malay,16,postgraduate degree,completed,72,60,50
+male,Malay,14,diploma,none,31,40,77
+male,Indian,14,diploma,none,37,65,68
+male,Malay,14,high school,none,32,70,60
+female,Others,15,high school,completed,97,94,87
+male,Indian,14,undergraduate degree,none,69,76,76
+female,Malay,17,undergraduate degree,completed,88,86,91
+male,Malay,16,high school,none,56,79,75
+female,Indian,15,diploma,completed,64,83,97
+female,Malay,16,undergraduate degree,none,82,60,56
+male,Malay,16,undergraduate degree,completed,50,67,71
+male,Malay,16,high school,none,27,26,57
+female,Malay,17,undergraduate degree,none,48,38,74
+female,Malay,14,diploma,none,35,26,49
+male,Malay,13,diploma,none,53,64,65
+female,Malay,17,high school,none,25,40,46
+male,Others,15,diploma,none,34,51,72
+male,Malay,13,high school,none,44,42,63
+female,Chinese,13,high school,none,41,79,91
+female,Malay,17,undergraduate degree,none,33,36,55
+female,Chinese,16,undergraduate degree,completed,73,70,70
+female,Chinese,14,high school,none,44,26,54
+male,Indian,17,high school,completed,73,76,75
+male,Indian,14,undergraduate degree,none,71,24,63
+female,Malay,16,undergraduate degree,none,82,71,80
+male,Others,16,high school,none,40,57,52
+male,Chinese,13,postgraduate degree,none,34,66,77
+male,Malay,17,undergraduate degree,completed,63,55,45
+male,Malay,15,diploma,completed,79,97,92
+female,Malay,16,undergraduate degree,none,49,53,52
+female,Indian,16,undergraduate degree,none,33,67,62
+female,Indian,13,undergraduate degree,none,33,41,78
+male,Chinese,13,high school,completed,74,72,86
+female,Chinese,13,undergraduate degree,none,47,85,81
+male,Indian,17,undergraduate degree,none,84,36,55
+male,Chinese,15,high school,none,83,29,68
+male,Indian,15,high school,completed,54,84,94
+male,Malay,14,high school,none,40,34,77
+male,Malay,13,diploma,completed,47,59,73
+female,Malay,15,high school,completed,49,68,61
+female,Malay,14,undergraduate degree,completed,66,57,59
+female,Malay,14,high school,completed,71,95,92
+male,Malay,14,postgraduate degree,completed,59,82,86
+female,Malay,14,high school,completed,47,56,75
+male,Chinese,16,high school,completed,96,60,53
+male,Chinese,16,high school,completed,50,57,50
+female,Malay,14,undergraduate degree,none,38,61,74
+male,Malay,16,undergraduate degree,completed,64,64,64
+male,Malay,17,high school,none,66,61,76
+male,Malay,13,diploma,none,40,38,75
+female,Indian,13,postgraduate degree,none,58,36,60
+male,Malay,16,high school,none,31,68,64
+female,Indian,16,undergraduate degree,none,59,49,66
+male,Indian,16,postgraduate degree,none,45,29,67
+female,Malay,15,diploma,none,65,60,53
+male,Malay,17,undergraduate degree,none,35,67,68
+male,Malay,15,undergraduate degree,none,36,73,92
+female,Malay,15,high school,completed,74,79,78
+male,Indian,13,undergraduate degree,none,25,80,76
+female,Malay,16,diploma,none,49,24,79
+male,Chinese,15,high school,none,49,72,96
+male,Chinese,17,undergraduate degree,completed,70,82,84
+female,Chinese,13,diploma,completed,56,65,58
+female,Chinese,17,undergraduate degree,completed,94,57,52
+female,Malay,14,diploma,none,85,39,78
+male,Malay,17,undergraduate degree,none,33,64,57
+female,Indian,14,undergraduate degree,none,76,46,66
+male,Malay,17,undergraduate degree,none,70,34,62
+male,Malay,13,undergraduate degree,none,25,71,91
+male,Malay,17,diploma,completed,45,51,72
+male,Chinese,15,diploma,none,55,62,60
+female,Chinese,13,high school,none,47,66,80
+female,Malay,15,high school,completed,92,64,72
+female,Chinese,17,high school,completed,70,53,47
+female,Malay,14,high school,none,82,74,86
+female,Malay,17,undergraduate degree,none,30,40,57
+female,Malay,16,postgraduate degree,none,47,70,57
+female,Malay,15,high school,none,42,60,56
+male,Malay,14,high school,none,55,81,88
+female,Others,15,high school,none,81,56,69
+male,Malay,17,undergraduate degree,completed,88,68,52
+female,Indian,15,undergraduate degree,completed,77,92,89
+female,Chinese,15,diploma,none,65,75,81
+female,Malay,17,diploma,none,52,56,48
+male,Malay,14,undergraduate degree,completed,57,85,88
+male,Malay,16,high school,none,61,64,73
+male,Chinese,17,diploma,completed,73,78,77
+male,Malay,14,diploma,none,50,48,76
+female,Malay,13,high school,completed,79,80,88
+male,Chinese,14,undergraduate degree,completed,88,67,45
+female,Malay,17,high school,none,40,65,76
+female,Chinese,14,high school,none,29,85,76
+female,Malay,16,high school,none,55,51,61
+male,Others,14,undergraduate degree,none,45,50,58
+male,Chinese,14,postgraduate degree,none,49,40,53
+male,Others,17,high school,none,23,63,78
+male,Malay,15,undergraduate degree,none,51,55,54
